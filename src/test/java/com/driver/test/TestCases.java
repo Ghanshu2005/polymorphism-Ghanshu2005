@@ -21,7 +21,5 @@ public class TestCases {
         System.out.println(p.product(5, 4));
         System.out.println(p.product(5, 4, 6));
         System.out.println(p.product(5.5, 4.3));
-
-
     }
 }
